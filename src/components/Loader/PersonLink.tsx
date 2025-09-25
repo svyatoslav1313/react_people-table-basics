@@ -1,7 +1,7 @@
-import classNames from "classnames";
-import React from "react";
-import { Person } from "../../types";
-import { Link } from "react-router-dom";
+import classNames from 'classnames';
+import React from 'react';
+import { Person } from '../../types';
+import { Link } from 'react-router-dom';
 
 type Props = {
   person: Person;
